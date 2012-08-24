@@ -1,0 +1,11 @@
+{
+	"name":"countdown",
+	"version":"0.1",
+	"description":"",
+	"charset":"utf8",
+	"browser_action":{
+		"default_icon":"calendar.png",
+		"default_title":"countdown clock",
+		"popup":"popup.html"
+	}
+}

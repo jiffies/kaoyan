@@ -1,0 +1,18 @@
+body {
+	width: 300px;
+	height: 200px;
+	background: #426ab3;
+	color: #feeeed;
+
+}
+
+h1#title {
+	width:160px;
+	margin:auto;
+	color: #feeeed;
+}
+
+p#date {
+	width:184px;
+	margin:auto
+}
