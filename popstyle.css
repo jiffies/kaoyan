@@ -7,12 +7,10 @@ body {
 }
 
 h1#title {
-	width:160px;
-	margin:auto;
+  text-align: center;
 	color: #feeeed;
 }
 
 p#date {
-	width:184px;
-	margin:auto
+  text-align:center;
 }
