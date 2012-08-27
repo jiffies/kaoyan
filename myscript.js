@@ -1,6 +1,6 @@
 $(document).ready(function(){
 	var now = new Date;
-	var deadline = new Date(2013,0,26);
+	var deadline = new Date(2013,0,5);
 	var days = diffDays(now,deadline);
 	
 	$('<p id="date"></p>').appendTo('body');
